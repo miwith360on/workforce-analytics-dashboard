@@ -1,0 +1,501 @@
+Employee ID,Hire Date,Termination Date,Department,Age,Gender,Reason for Leaving,Performance Score,Salary,Tenure (Years)
+E0001,2018-06-02,2021-03-22,Customer Support,29,Female,Voluntary,2,82096,2.8054794520547945
+E0002,2014-03-05,2018-06-25,Finance,39,Female,Involuntary,2,112725,4.30958904109589
+E0003,2014-03-04,,Marketing,33,Male,Active,5,71957,
+E0004,2014-01-23,,HR,39,Female,Active,4,112439,
+E0005,2014-10-30,,Marketing,37,Female,Active,1,45211,
+E0006,2020-09-28,2024-05-21,Finance,45,Male,Voluntary,2,105675,3.6465753424657534
+E0007,2017-04-27,,Customer Support,39,Female,Active,2,41981,
+E0008,2017-05-28,2021-09-25,Sales,58,Male,Involuntary,4,69068,4.331506849315068
+E0009,2016-08-24,,Customer Support,41,Female,Active,2,80344,
+E0010,2019-01-03,,HR,26,Male,Active,5,62535,
+E0011,2018-10-13,2023-09-03,Customer Support,29,Female,Personal Reasons,2,52655,4.8931506849315065
+E0012,2021-01-25,,Sales,58,Female,Active,4,76262,
+E0013,2017-12-19,,Customer Support,23,Female,Active,1,115767,
+E0014,2014-02-03,,HR,56,Female,Active,3,56294,
+E0015,2014-02-03,,Finance,49,Female,Active,3,57145,
+E0016,2019-06-07,,HR,55,Female,Active,2,90840,
+E0017,2023-06-22,,Customer Support,45,Female,Active,2,105833,
+E0018,2017-02-18,,Marketing,52,Female,Active,4,48110,
+E0019,2022-06-21,,Engineering,50,Male,Active,2,105736,
+E0020,2018-10-30,,HR,50,Male,Active,4,84375,
+E0021,2014-06-11,,Finance,33,Male,Active,3,55942,
+E0022,2018-09-29,,Finance,36,Male,Active,5,119881,
+E0023,2023-01-08,,HR,52,Male,Active,1,48282,
+E0024,2021-04-19,2023-12-23,Marketing,41,Female,Retirement,2,77501,2.6794520547945204
+E0025,2018-10-27,,HR,50,Male,Active,3,60868,
+E0026,2023-04-10,,Marketing,28,Male,Active,5,62397,
+E0027,2022-10-16,,Engineering,44,Female,Active,1,84682,
+E0028,2014-08-21,,Engineering,28,Female,Active,2,79558,
+E0029,2014-09-13,,HR,39,Male,Active,2,65170,
+E0030,2020-11-16,,Engineering,40,Female,Active,2,77104,
+E0031,2014-04-03,,Engineering,60,Female,Active,5,75274,
+E0032,2020-08-22,,HR,56,Female,Active,4,96190,
+E0033,2022-11-19,2026-12-19,Sales,27,Female,Retirement,4,113024,4.0849315068493155
+E0034,2021-07-03,,Sales,44,Female,Active,2,116687,
+E0035,2023-04-01,,Finance,44,Female,Active,2,94772,
+E0036,2017-06-06,,Sales,31,Male,Active,3,72784,
+E0037,2017-01-29,2019-10-19,Sales,58,Male,Personal Reasons,5,55100,2.7205479452054795
+E0038,2023-04-26,,Sales,47,Female,Active,2,63553,
+E0039,2018-11-11,,Customer Support,51,Female,Active,5,110956,
+E0040,2018-05-28,2021-03-31,Customer Support,39,Male,Involuntary,4,42766,2.8438356164383563
+E0041,2022-10-15,,Marketing,41,Female,Active,4,91087,
+E0042,2018-11-18,,Finance,49,Female,Active,5,119738,
+E0043,2019-01-19,2021-11-14,Engineering,38,Male,Personal Reasons,1,64544,2.8219178082191783
+E0044,2020-12-12,,Sales,29,Female,Active,1,106286,
+E0045,2014-11-12,2019-03-17,Engineering,37,Male,Involuntary,3,51666,4.345205479452055
+E0046,2015-06-24,,Customer Support,32,Female,Active,1,101705,
+E0047,2022-01-11,,HR,56,Female,Active,1,94918,
+E0048,2017-09-15,,HR,27,Male,Active,5,61978,
+E0049,2023-04-22,,Customer Support,29,Female,Active,5,51212,
+E0050,2020-01-07,,Finance,24,Male,Active,1,71909,
+E0051,2017-07-11,2022-03-04,Sales,27,Male,Personal Reasons,2,48312,4.64931506849315
+E0052,2016-11-02,,Engineering,24,Female,Active,3,93237,
+E0053,2019-02-08,,Marketing,48,Female,Active,5,65107,
+E0054,2021-12-13,2025-10-17,Engineering,41,Male,Personal Reasons,1,62191,3.8465753424657536
+E0055,2017-03-12,,Marketing,23,Male,Active,5,110461,
+E0056,2020-06-12,,Marketing,24,Female,Active,2,67815,
+E0057,2016-12-03,2020-03-06,HR,26,Male,Involuntary,5,44509,3.2575342465753425
+E0058,2017-04-12,,HR,27,Male,Active,4,114916,
+E0059,2015-06-02,,Marketing,39,Female,Active,5,51929,
+E0060,2022-03-01,,Sales,30,Male,Active,3,95615,
+E0061,2022-02-27,,Customer Support,52,Female,Active,3,94582,
+E0062,2014-03-08,,Engineering,59,Male,Active,1,59028,
+E0063,2020-11-14,,Customer Support,50,Male,Active,5,55367,
+E0064,2015-10-10,,Engineering,53,Male,Active,3,86736,
+E0065,2021-02-03,2024-02-15,Sales,50,Female,Voluntary,3,40139,3.032876712328767
+E0066,2023-08-31,,HR,42,Female,Active,4,40961,
+E0067,2014-11-05,,HR,50,Male,Active,5,77085,
+E0068,2020-07-13,,Marketing,44,Female,Active,3,73724,
+E0069,2017-06-26,,Customer Support,31,Male,Active,4,98163,
+E0070,2017-04-18,,Marketing,51,Male,Active,1,103670,
+E0071,2018-09-21,2022-08-03,Marketing,41,Female,Involuntary,4,70653,3.8684931506849316
+E0072,2022-09-20,,Sales,43,Male,Active,2,87842,
+E0073,2016-01-26,,Sales,37,Female,Active,1,103595,
+E0074,2021-07-28,,HR,52,Male,Active,5,100342,
+E0075,2017-10-29,,Engineering,56,Male,Active,5,81364,
+E0076,2019-03-21,,HR,48,Female,Active,4,46439,
+E0077,2014-12-01,,Sales,34,Male,Active,4,93205,
+E0078,2019-01-03,,Engineering,35,Female,Active,5,70320,
+E0079,2018-10-06,2020-07-02,Sales,53,Female,Involuntary,1,67392,1.7397260273972603
+E0080,2023-03-19,,Engineering,39,Female,Active,4,81459,
+E0081,2015-10-18,,HR,33,Male,Active,1,89825,
+E0082,2021-11-05,,Sales,27,Male,Active,4,115366,
+E0083,2018-05-24,2021-04-13,Finance,40,Male,Involuntary,3,69445,2.8904109589041096
+E0084,2016-09-14,,Finance,59,Male,Active,2,48073,
+E0085,2022-11-15,2024-04-19,Sales,41,Female,Voluntary,3,92674,1.4273972602739726
+E0086,2019-03-20,,Engineering,53,Male,Active,1,96979,
+E0087,2018-12-07,,Finance,46,Male,Active,1,110290,
+E0088,2016-04-03,,Marketing,37,Male,Active,4,108245,
+E0089,2021-06-11,,Sales,40,Male,Active,5,65646,
+E0090,2019-09-03,,Marketing,46,Male,Active,3,111558,
+E0091,2017-06-04,2021-06-13,HR,27,Female,Involuntary,5,112412,4.027397260273973
+E0092,2016-05-30,,Finance,43,Male,Active,3,43276,
+E0093,2022-07-25,,Sales,23,Male,Active,5,40105,
+E0094,2019-02-09,,Engineering,36,Male,Active,3,94311,
+E0095,2019-04-06,,Sales,31,Female,Active,2,115988,
+E0096,2021-08-08,,Sales,55,Female,Active,4,56530,
+E0097,2023-07-02,,HR,40,Female,Active,3,114169,
+E0098,2022-11-18,2026-04-03,Finance,30,Male,Retirement,1,91249,3.3753424657534246
+E0099,2018-12-13,,HR,54,Male,Active,2,96115,
+E0100,2019-10-14,2022-07-08,Marketing,57,Female,Retirement,4,84969,2.734246575342466
+E0101,2023-01-23,,Marketing,34,Male,Active,1,82986,
+E0102,2023-06-13,2028-04-16,HR,39,Male,Retirement,2,79345,4.846575342465753
+E0103,2023-10-24,2027-02-20,Sales,36,Female,Retirement,1,68767,3.328767123287671
+E0104,2014-10-27,,Finance,27,Male,Active,2,57516,
+E0105,2018-03-07,,Engineering,43,Male,Active,3,60271,
+E0106,2021-08-07,,Customer Support,40,Male,Active,1,58617,
+E0107,2019-11-06,2021-04-02,Engineering,50,Male,Involuntary,5,59155,1.4054794520547946
+E0108,2015-04-06,2018-01-27,HR,27,Female,Voluntary,4,96547,2.813698630136986
+E0109,2020-12-31,,Sales,25,Male,Active,3,90723,
+E0110,2023-05-10,,Customer Support,60,Female,Active,3,65351,
+E0111,2015-11-27,,Engineering,53,Male,Active,5,114066,
+E0112,2015-11-27,,HR,56,Female,Active,4,116615,
+E0113,2020-01-31,,Customer Support,44,Male,Active,1,65208,
+E0114,2015-11-19,,Engineering,27,Female,Active,3,41428,
+E0115,2017-02-17,2020-02-09,Customer Support,58,Female,Retirement,3,87653,2.978082191780822
+E0116,2018-10-08,2022-08-21,Finance,30,Male,Involuntary,5,61993,3.871232876712329
+E0117,2020-06-15,2024-09-12,Engineering,58,Female,Involuntary,5,53289,4.2465753424657535
+E0118,2014-05-31,2015-11-08,Customer Support,41,Female,Involuntary,5,60093,1.441095890410959
+E0119,2019-01-23,,Engineering,53,Female,Active,5,101968,
+E0120,2021-11-03,,Customer Support,51,Female,Active,3,63667,
+E0121,2021-08-05,2023-10-20,HR,36,Female,Retirement,1,65251,2.208219178082192
+E0122,2016-08-02,,Sales,22,Female,Active,5,97192,
+E0123,2016-10-03,2018-06-13,Sales,47,Male,Voluntary,5,116633,1.6931506849315068
+E0124,2017-11-03,,Sales,45,Female,Active,5,88379,
+E0125,2023-04-01,2026-09-28,Engineering,57,Male,Retirement,4,53782,3.495890410958904
+E0126,2019-04-30,2021-10-30,HR,30,Female,Retirement,3,101473,2.504109589041096
+E0127,2020-12-06,,Marketing,40,Male,Active,1,87210,
+E0128,2022-07-09,,Engineering,53,Female,Active,2,82654,
+E0129,2020-05-27,2024-05-07,Marketing,25,Male,Voluntary,2,107933,3.947945205479452
+E0130,2017-03-14,2021-06-04,Sales,56,Male,Retirement,4,81946,4.227397260273973
+E0131,2022-05-07,,Finance,32,Male,Active,1,116022,
+E0132,2015-02-06,2016-02-29,Marketing,30,Female,Voluntary,4,84296,1.063013698630137
+E0133,2014-05-16,2017-07-02,Sales,22,Male,Voluntary,4,61697,3.1315068493150684
+E0134,2017-06-24,,Sales,31,Female,Active,3,95808,
+E0135,2021-07-10,,Engineering,37,Female,Active,3,94554,
+E0136,2014-02-05,,Sales,37,Female,Active,4,66814,
+E0137,2021-08-13,2024-10-06,HR,54,Female,Voluntary,4,96933,3.1506849315068495
+E0138,2020-06-15,,HR,34,Male,Active,4,50096,
+E0139,2023-10-21,,Engineering,44,Female,Active,2,53771,
+E0140,2023-03-17,,Sales,40,Male,Active,1,70686,
+E0141,2022-07-30,,Finance,56,Female,Active,5,84245,
+E0142,2022-07-31,,Finance,33,Female,Active,3,101562,
+E0143,2018-09-17,,Engineering,31,Male,Active,1,44331,
+E0144,2017-11-14,,Sales,37,Male,Active,5,71612,
+E0145,2015-12-26,,Engineering,56,Male,Active,3,69415,
+E0146,2015-07-29,,Customer Support,42,Female,Active,2,109923,
+E0147,2019-04-26,,Marketing,51,Female,Active,2,57405,
+E0148,2020-10-23,,Marketing,22,Female,Active,1,85370,
+E0149,2018-07-10,,Engineering,27,Male,Active,1,115516,
+E0150,2014-01-26,,Engineering,30,Female,Active,2,108639,
+E0151,2023-08-29,,Finance,29,Female,Active,1,66530,
+E0152,2019-02-17,,Sales,56,Male,Active,5,62307,
+E0153,2022-08-21,,Marketing,52,Male,Active,1,86249,
+E0154,2015-06-19,,Customer Support,59,Female,Active,2,103131,
+E0155,2018-02-01,,Marketing,33,Female,Active,3,101687,
+E0156,2022-08-02,,Customer Support,29,Male,Active,2,47211,
+E0157,2017-07-03,,Engineering,55,Male,Active,4,65429,
+E0158,2022-08-08,,HR,60,Female,Active,2,63500,
+E0159,2017-01-25,2019-07-30,Engineering,59,Female,Voluntary,3,96666,2.5095890410958903
+E0160,2022-11-16,,Sales,28,Male,Active,1,89973,
+E0161,2020-08-10,2023-10-20,HR,29,Male,Involuntary,1,101035,3.1945205479452055
+E0162,2014-04-14,,Marketing,56,Female,Active,2,113629,
+E0163,2019-02-17,2020-10-02,Marketing,43,Male,Involuntary,1,72298,1.6246575342465754
+E0164,2018-05-09,2021-06-30,Finance,51,Male,Retirement,5,56476,3.1452054794520548
+E0165,2018-03-09,,Finance,57,Female,Active,2,84794,
+E0166,2017-01-04,,Marketing,50,Female,Active,4,52628,
+E0167,2014-01-27,2018-09-20,HR,38,Female,Voluntary,5,105260,4.64931506849315
+E0168,2021-08-26,2024-03-12,Customer Support,33,Female,Involuntary,4,97646,2.5452054794520547
+E0169,2023-04-02,,HR,57,Male,Active,1,40305,
+E0170,2021-01-03,,Marketing,22,Male,Active,5,108491,
+E0171,2014-02-28,,Finance,22,Female,Active,4,86663,
+E0172,2020-10-01,,Engineering,30,Male,Active,5,103765,
+E0173,2014-05-18,,Engineering,45,Female,Active,5,70100,
+E0174,2014-11-01,,Engineering,38,Female,Active,3,78633,
+E0175,2017-02-17,,Finance,25,Female,Active,5,110466,
+E0176,2023-04-27,,Marketing,35,Male,Active,4,78334,
+E0177,2023-07-02,,Engineering,36,Female,Active,3,118589,
+E0178,2017-08-28,,HR,56,Female,Active,5,105069,
+E0179,2019-08-26,,Engineering,42,Female,Active,2,63991,
+E0180,2021-08-08,,Sales,50,Male,Active,3,74332,
+E0181,2020-07-24,2025-02-24,Sales,28,Female,Involuntary,3,54896,4.5917808219178085
+E0182,2022-01-16,,Engineering,49,Female,Active,1,116216,
+E0183,2019-09-04,,Marketing,31,Female,Active,4,54319,
+E0184,2022-07-15,2027-07-03,Customer Support,31,Male,Retirement,1,111115,4.96986301369863
+E0185,2014-06-12,2016-07-25,Customer Support,30,Female,Involuntary,5,117598,2.1205479452054794
+E0186,2022-03-21,2023-04-19,Sales,50,Female,Involuntary,1,113614,1.0794520547945206
+E0187,2019-05-27,2021-08-14,Finance,37,Male,Voluntary,2,69805,2.219178082191781
+E0188,2019-10-26,,Customer Support,43,Male,Active,1,87836,
+E0189,2021-05-31,,HR,51,Female,Active,1,58428,
+E0190,2018-11-19,2023-05-07,Customer Support,54,Male,Involuntary,5,83729,4.465753424657534
+E0191,2022-10-07,,Engineering,26,Female,Active,4,79041,
+E0192,2023-06-25,,Customer Support,28,Female,Active,4,88275,
+E0193,2018-08-23,,Finance,51,Male,Active,3,69868,
+E0194,2017-01-08,,Marketing,29,Female,Active,5,64220,
+E0195,2018-11-10,,Customer Support,44,Male,Active,1,83253,
+E0196,2020-03-27,,Customer Support,57,Male,Active,2,110871,
+E0197,2021-01-20,,Marketing,54,Female,Active,4,63888,
+E0198,2017-02-18,2018-10-10,Engineering,60,Female,Involuntary,4,47868,1.641095890410959
+E0199,2018-10-20,,Sales,53,Female,Active,3,56933,
+E0200,2018-09-01,2022-04-26,Engineering,37,Male,Voluntary,5,57675,3.652054794520548
+E0201,2022-06-09,2026-10-10,Sales,27,Male,Involuntary,5,66514,4.33972602739726
+E0202,2018-02-01,,Marketing,28,Male,Active,2,88375,
+E0203,2020-01-04,,Customer Support,52,Female,Active,2,73861,
+E0204,2016-02-10,2020-08-29,Customer Support,60,Male,Involuntary,4,93201,4.553424657534246
+E0205,2023-08-21,,Marketing,36,Female,Active,5,44740,
+E0206,2015-09-11,,Engineering,57,Female,Active,4,41423,
+E0207,2022-07-13,2026-06-26,Customer Support,40,Female,Voluntary,5,62698,3.956164383561644
+E0208,2014-02-13,2015-12-09,Marketing,28,Female,Personal Reasons,3,49591,1.819178082191781
+E0209,2014-01-25,2018-01-06,Engineering,58,Female,Retirement,3,57580,3.9506849315068493
+E0210,2019-07-30,2021-11-26,Customer Support,59,Female,Retirement,1,110395,2.328767123287671
+E0211,2022-06-11,,HR,52,Male,Active,5,73441,
+E0212,2022-09-01,,Sales,50,Female,Active,1,119992,
+E0213,2021-01-17,,Engineering,57,Male,Active,2,107811,
+E0214,2018-07-03,,Marketing,31,Male,Active,4,99451,
+E0215,2017-01-19,,HR,60,Male,Active,2,89686,
+E0216,2023-01-04,,Sales,31,Male,Active,5,84564,
+E0217,2018-01-23,,Marketing,42,Female,Active,1,89518,
+E0218,2017-11-04,,Customer Support,60,Male,Active,5,60200,
+E0219,2017-05-16,,HR,45,Female,Active,3,73596,
+E0220,2017-06-07,,Customer Support,40,Male,Active,4,64472,
+E0221,2014-05-10,2015-06-23,Marketing,59,Male,Retirement,3,51337,1.1205479452054794
+E0222,2018-07-29,,Sales,48,Female,Active,1,114275,
+E0223,2021-08-22,2024-08-04,Marketing,59,Female,Retirement,1,70632,2.9534246575342467
+E0224,2017-12-16,2020-09-29,Engineering,59,Female,Involuntary,5,115146,2.789041095890411
+E0225,2023-02-09,,Finance,55,Female,Active,5,111610,
+E0226,2019-12-08,,Sales,40,Male,Active,5,117117,
+E0227,2017-11-11,2019-10-25,Engineering,26,Female,Retirement,5,79464,1.9534246575342467
+E0228,2017-08-27,2019-05-08,Marketing,24,Female,Retirement,3,98597,1.6958904109589041
+E0229,2018-08-02,,Customer Support,32,Male,Active,3,44886,
+E0230,2022-01-10,,Finance,42,Male,Active,3,41848,
+E0231,2023-03-16,,Finance,43,Male,Active,2,69721,
+E0232,2016-08-02,,Marketing,38,Female,Active,5,76497,
+E0233,2018-10-22,2020-03-31,HR,49,Female,Involuntary,2,96692,1.441095890410959
+E0234,2019-10-07,,Sales,56,Female,Active,3,46524,
+E0235,2016-05-19,2021-04-16,Finance,35,Female,Personal Reasons,1,63230,4.912328767123288
+E0236,2018-09-25,2021-04-13,Engineering,50,Male,Personal Reasons,1,52179,2.5506849315068494
+E0237,2019-05-20,,Marketing,36,Male,Active,4,85233,
+E0238,2016-03-11,,Marketing,37,Male,Active,1,104084,
+E0239,2017-12-08,2021-02-14,Finance,50,Male,Involuntary,5,63639,3.1890410958904107
+E0240,2019-08-07,,Marketing,24,Male,Active,5,47589,
+E0241,2017-12-20,,Customer Support,33,Female,Active,2,95630,
+E0242,2017-03-01,,Marketing,56,Male,Active,1,109845,
+E0243,2018-03-04,,Sales,38,Male,Active,4,95740,
+E0244,2014-03-21,,Customer Support,36,Female,Active,5,44388,
+E0245,2016-11-25,,HR,45,Female,Active,2,119805,
+E0246,2017-10-17,2020-02-23,Engineering,53,Male,Personal Reasons,4,89786,2.3534246575342466
+E0247,2017-08-21,,Customer Support,23,Male,Active,1,42111,
+E0248,2020-12-09,2024-07-31,Sales,50,Male,Voluntary,4,81210,3.643835616438356
+E0249,2020-10-31,,Engineering,42,Female,Active,4,71573,
+E0250,2016-09-13,,Sales,44,Female,Active,5,93129,
+E0251,2018-02-05,2020-03-01,HR,26,Female,Retirement,2,72692,2.0684931506849313
+E0252,2018-01-22,,Sales,42,Female,Active,4,69702,
+E0253,2015-03-14,2018-05-29,Finance,33,Male,Involuntary,1,48005,3.210958904109589
+E0254,2016-04-11,2021-03-08,Marketing,46,Male,Personal Reasons,4,98344,4.909589041095891
+E0255,2022-06-08,,HR,50,Female,Active,3,108157,
+E0256,2017-08-01,,HR,59,Male,Active,1,67743,
+E0257,2014-10-29,2017-07-29,Customer Support,37,Female,Retirement,5,81249,2.750684931506849
+E0258,2019-01-14,2022-05-30,HR,57,Female,Involuntary,5,61567,3.3753424657534246
+E0259,2022-08-30,2025-06-12,Marketing,30,Male,Personal Reasons,2,68474,2.786301369863014
+E0260,2022-11-23,,Sales,38,Male,Active,2,103723,
+E0261,2015-02-03,,HR,57,Female,Active,3,102241,
+E0262,2021-08-02,,Sales,37,Female,Active,1,40829,
+E0263,2020-01-27,2024-03-21,Customer Support,35,Female,Involuntary,3,112024,4.1506849315068495
+E0264,2017-11-01,,Customer Support,54,Male,Active,3,63253,
+E0265,2022-01-22,,Marketing,46,Male,Active,1,50655,
+E0266,2019-07-30,,Marketing,26,Male,Active,4,70732,
+E0267,2016-01-15,,Finance,44,Male,Active,5,87656,
+E0268,2022-01-20,,Finance,25,Female,Active,2,55730,
+E0269,2019-07-28,2023-04-21,HR,35,Female,Personal Reasons,5,117927,3.734246575342466
+E0270,2022-12-27,2026-01-30,HR,30,Male,Involuntary,3,118458,3.095890410958904
+E0271,2021-05-21,,Finance,22,Male,Active,3,100146,
+E0272,2017-12-10,2019-11-28,Engineering,43,Female,Personal Reasons,5,65610,1.9671232876712328
+E0273,2016-12-07,2018-01-28,Finance,53,Female,Personal Reasons,2,65552,1.1424657534246576
+E0274,2019-09-17,2023-05-22,Marketing,35,Male,Personal Reasons,2,43032,3.6794520547945204
+E0275,2020-04-06,2021-10-19,Customer Support,50,Female,Voluntary,1,111203,1.536986301369863
+E0276,2014-10-20,,HR,23,Female,Active,2,64550,
+E0277,2018-01-17,,HR,24,Female,Active,3,44088,
+E0278,2017-02-25,,Engineering,29,Male,Active,2,79052,
+E0279,2014-06-17,,Marketing,42,Male,Active,5,114126,
+E0280,2020-02-20,,Marketing,45,Female,Active,3,103749,
+E0281,2018-09-10,,Customer Support,57,Male,Active,3,98379,
+E0282,2014-02-12,,HR,37,Female,Active,3,81435,
+E0283,2014-11-18,2017-01-18,Sales,39,Male,Retirement,3,59840,2.16986301369863
+E0284,2019-10-18,,Engineering,28,Female,Active,3,87826,
+E0285,2019-04-29,,HR,30,Female,Active,4,87127,
+E0286,2018-06-04,,Marketing,46,Male,Active,2,44614,
+E0287,2018-08-10,,HR,53,Female,Active,1,53270,
+E0288,2017-01-31,,Sales,23,Male,Active,4,87817,
+E0289,2014-10-16,,Customer Support,49,Female,Active,3,59439,
+E0290,2021-08-14,,Sales,28,Male,Active,2,51054,
+E0291,2015-12-30,,Marketing,57,Female,Active,1,70478,
+E0292,2021-06-15,2023-12-31,Marketing,25,Male,Retirement,4,105278,2.5452054794520547
+E0293,2015-08-31,,Finance,22,Male,Active,3,86316,
+E0294,2023-11-29,2024-12-02,Engineering,32,Male,Involuntary,5,90496,1.010958904109589
+E0295,2017-07-05,,Sales,26,Female,Active,2,83155,
+E0296,2018-02-18,,Marketing,38,Female,Active,1,49529,
+E0297,2016-03-11,2020-10-23,Customer Support,48,Male,Voluntary,1,90051,4.6219178082191785
+E0298,2015-11-11,,Sales,23,Female,Active,1,56801,
+E0299,2018-12-20,,Engineering,47,Female,Active,2,51209,
+E0300,2019-05-05,,Finance,35,Male,Active,4,56440,
+E0301,2018-05-18,,Engineering,47,Female,Active,3,43098,
+E0302,2022-08-19,,Sales,44,Female,Active,3,71926,
+E0303,2021-03-07,,Marketing,32,Male,Active,4,117120,
+E0304,2015-06-18,2016-12-17,Engineering,35,Female,Voluntary,1,105538,1.5013698630136987
+E0305,2020-12-12,,Customer Support,26,Male,Active,5,102464,
+E0306,2014-04-22,2017-01-14,Marketing,38,Female,Personal Reasons,3,61265,2.734246575342466
+E0307,2021-06-20,,Finance,53,Female,Active,3,60383,
+E0308,2020-04-01,,Customer Support,23,Female,Active,2,114255,
+E0309,2023-01-05,,HR,26,Female,Active,3,78290,
+E0310,2015-08-02,2020-05-27,Marketing,22,Male,Voluntary,5,108453,4.821917808219178
+E0311,2019-02-02,,Sales,28,Male,Active,5,102745,
+E0312,2021-11-28,,Customer Support,35,Male,Active,1,104434,
+E0313,2019-09-02,2021-12-12,Marketing,25,Female,Voluntary,5,42818,2.2794520547945205
+E0314,2018-06-02,,Finance,31,Male,Active,3,58640,
+E0315,2016-12-26,,Marketing,41,Female,Active,3,46483,
+E0316,2018-01-21,,Customer Support,32,Female,Active,4,58456,
+E0317,2020-09-26,,HR,27,Female,Active,5,47336,
+E0318,2023-11-19,,HR,52,Female,Active,3,86032,
+E0319,2017-09-15,,Finance,52,Female,Active,1,64970,
+E0320,2021-09-27,2026-08-29,Engineering,58,Male,Involuntary,2,63459,4.923287671232877
+E0321,2021-07-08,,HR,47,Female,Active,1,46931,
+E0322,2019-02-08,,Sales,59,Male,Active,2,104680,
+E0323,2018-07-13,2022-05-21,Sales,26,Female,Voluntary,5,53536,3.8575342465753426
+E0324,2023-09-12,,Engineering,48,Female,Active,3,47682,
+E0325,2019-03-08,,Engineering,58,Female,Active,2,70594,
+E0326,2018-05-06,,HR,49,Male,Active,5,51781,
+E0327,2021-12-12,2025-05-27,Marketing,32,Male,Retirement,4,94298,3.4575342465753423
+E0328,2018-12-06,,HR,60,Female,Active,4,89803,
+E0329,2019-09-19,,Finance,41,Male,Active,3,96694,
+E0330,2023-01-16,,HR,23,Female,Active,4,103953,
+E0331,2022-09-02,,Finance,45,Female,Active,5,100650,
+E0332,2020-01-26,,Sales,25,Male,Active,4,68746,
+E0333,2014-03-20,,Engineering,52,Male,Active,3,41250,
+E0334,2014-05-28,2015-06-03,HR,29,Female,Personal Reasons,5,86266,1.0164383561643835
+E0335,2021-11-05,,Marketing,51,Female,Active,3,83677,
+E0336,2014-04-07,,Marketing,25,Female,Active,3,110273,
+E0337,2019-01-10,,Finance,39,Female,Active,2,48923,
+E0338,2021-08-15,,Sales,35,Female,Active,5,86802,
+E0339,2019-08-09,,Finance,23,Female,Active,1,119379,
+E0340,2014-10-29,2017-07-29,Customer Support,42,Female,Voluntary,3,78757,2.750684931506849
+E0341,2023-09-25,,Customer Support,58,Male,Active,1,46425,
+E0342,2014-06-22,,Engineering,37,Male,Active,5,74281,
+E0343,2014-06-21,,Marketing,38,Male,Active,1,94753,
+E0344,2014-07-09,,Marketing,26,Female,Active,4,70589,
+E0345,2017-11-22,,Marketing,27,Female,Active,3,117036,
+E0346,2016-06-14,,HR,52,Female,Active,5,89558,
+E0347,2018-11-10,2020-10-18,Marketing,40,Female,Voluntary,4,81676,1.9397260273972603
+E0348,2020-11-20,2023-12-10,Marketing,59,Male,Voluntary,2,82969,3.0547945205479454
+E0349,2016-11-12,,Customer Support,34,Female,Active,4,99838,
+E0350,2017-05-30,,Customer Support,31,Male,Active,5,86070,
+E0351,2018-12-23,,HR,32,Female,Active,5,43315,
+E0352,2021-07-17,,HR,22,Female,Active,5,74633,
+E0353,2022-09-16,,Sales,51,Female,Active,4,88764,
+E0354,2014-02-03,2017-12-17,Engineering,32,Male,Retirement,5,69154,3.871232876712329
+E0355,2021-02-11,,Customer Support,28,Female,Active,1,74985,
+E0356,2023-03-21,,Marketing,32,Female,Active,2,119118,
+E0357,2016-08-20,2021-07-22,Engineering,36,Male,Voluntary,1,53670,4.923287671232877
+E0358,2017-12-17,,Customer Support,42,Male,Active,5,98622,
+E0359,2021-07-04,,Sales,50,Male,Active,1,42665,
+E0360,2016-01-18,,Sales,40,Male,Active,4,100941,
+E0361,2014-01-09,,Sales,35,Male,Active,5,80325,
+E0362,2016-04-28,,Sales,50,Female,Active,4,95068,
+E0363,2019-06-27,2023-09-28,Marketing,49,Female,Involuntary,4,72400,4.257534246575342
+E0364,2018-11-09,,Sales,60,Male,Active,1,77712,
+E0365,2017-05-05,,Marketing,34,Female,Active,1,51431,
+E0366,2020-07-20,2025-03-05,Marketing,51,Female,Retirement,2,49682,4.627397260273972
+E0367,2019-10-05,,HR,52,Female,Active,2,111573,
+E0368,2020-12-15,,Finance,27,Female,Active,5,108873,
+E0369,2023-11-03,,HR,57,Male,Active,2,111978,
+E0370,2020-01-25,,HR,60,Female,Active,3,116038,
+E0371,2014-05-30,2015-10-13,Finance,24,Female,Retirement,2,70917,1.3726027397260274
+E0372,2016-10-21,,Marketing,46,Female,Active,5,107451,
+E0373,2014-04-03,2015-05-31,Finance,41,Male,Retirement,4,87767,1.158904109589041
+E0374,2023-03-20,,Finance,32,Female,Active,1,80836,
+E0375,2021-10-11,,Customer Support,52,Male,Active,2,48758,
+E0376,2018-01-19,,Marketing,50,Male,Active,4,113726,
+E0377,2018-01-26,2021-07-05,Finance,47,Female,Personal Reasons,5,71704,3.441095890410959
+E0378,2021-09-03,,HR,40,Female,Active,4,112195,
+E0379,2015-03-06,2016-10-16,Finance,33,Female,Voluntary,5,99079,1.6164383561643836
+E0380,2014-07-30,,HR,56,Female,Active,5,57254,
+E0381,2018-08-03,,Engineering,50,Male,Active,5,74391,
+E0382,2018-06-30,,Finance,29,Male,Active,1,117940,
+E0383,2021-03-01,,Finance,34,Male,Active,3,76285,
+E0384,2017-01-24,2021-08-03,Customer Support,26,Female,Personal Reasons,4,108897,4.526027397260274
+E0385,2019-01-16,,Engineering,35,Female,Active,2,54354,
+E0386,2018-06-12,,Engineering,44,Male,Active,5,83649,
+E0387,2020-08-12,,Finance,35,Male,Active,4,110460,
+E0388,2023-06-17,,Engineering,60,Male,Active,1,112635,
+E0389,2018-11-03,2023-07-05,Customer Support,34,Female,Retirement,5,111051,4.671232876712328
+E0390,2014-01-28,,HR,34,Female,Active,5,117982,
+E0391,2021-06-08,,HR,31,Female,Active,4,57426,
+E0392,2017-07-14,,Finance,32,Male,Active,3,74647,
+E0393,2022-03-07,2023-11-06,Marketing,48,Male,Personal Reasons,3,113863,1.6684931506849314
+E0394,2023-09-20,2026-05-20,HR,53,Female,Voluntary,4,83685,2.665753424657534
+E0395,2014-10-31,,Customer Support,47,Male,Active,5,98877,
+E0396,2023-06-18,,Customer Support,31,Male,Active,1,108396,
+E0397,2020-02-18,,Sales,26,Female,Active,5,105415,
+E0398,2017-05-31,,Sales,54,Male,Active,3,118004,
+E0399,2016-03-29,2017-09-22,Customer Support,32,Female,Involuntary,4,53738,1.484931506849315
+E0400,2015-07-07,,Customer Support,58,Male,Active,1,61943,
+E0401,2023-12-24,,Sales,25,Male,Active,2,83386,
+E0402,2014-07-28,,Engineering,36,Male,Active,4,94086,
+E0403,2020-12-20,,Finance,50,Male,Active,5,69138,
+E0404,2020-09-03,,HR,38,Male,Active,2,48662,
+E0405,2022-07-22,,HR,43,Female,Active,1,71537,
+E0406,2022-08-21,,Marketing,50,Female,Active,4,78668,
+E0407,2018-12-03,2023-02-18,Engineering,26,Female,Involuntary,1,58479,4.213698630136986
+E0408,2023-05-07,2025-11-01,Finance,60,Male,Personal Reasons,2,68154,2.4904109589041097
+E0409,2020-07-16,,Finance,43,Female,Active,1,50653,
+E0410,2020-03-08,,Finance,60,Male,Active,2,83830,
+E0411,2018-07-11,,HR,46,Male,Active,4,104507,
+E0412,2020-05-04,,HR,58,Male,Active,3,42466,
+E0413,2023-05-27,2028-04-15,Marketing,24,Female,Involuntary,1,93863,4.890410958904109
+E0414,2023-05-06,,Finance,48,Female,Active,1,112697,
+E0415,2023-03-06,,Customer Support,51,Male,Active,2,77365,
+E0416,2021-02-14,,Sales,46,Male,Active,2,44474,
+E0417,2015-06-08,,Engineering,29,Female,Active,1,91195,
+E0418,2021-05-16,,Finance,45,Male,Active,1,71487,
+E0419,2022-01-18,2024-04-20,Marketing,54,Female,Personal Reasons,4,63850,2.254794520547945
+E0420,2016-10-23,,Marketing,58,Male,Active,1,93831,
+E0421,2023-09-28,,Customer Support,31,Male,Active,1,93507,
+E0422,2022-03-09,2023-08-10,HR,30,Female,Retirement,1,99772,1.4219178082191781
+E0423,2021-11-29,,Engineering,24,Male,Active,5,104437,
+E0424,2022-10-24,,Customer Support,31,Male,Active,2,106171,
+E0425,2015-10-22,2017-05-26,Sales,59,Male,Involuntary,2,90448,1.5945205479452054
+E0426,2016-12-10,2021-01-23,HR,41,Female,Personal Reasons,5,92805,4.123287671232877
+E0427,2015-09-09,,HR,53,Male,Active,1,95153,
+E0428,2018-06-11,2022-12-02,HR,36,Male,Involuntary,5,116246,4.47945205479452
+E0429,2015-01-31,,HR,55,Male,Active,2,48608,
+E0430,2017-02-12,,HR,41,Female,Active,4,59298,
+E0431,2018-10-10,,Customer Support,37,Male,Active,4,69505,
+E0432,2016-07-09,,Sales,31,Female,Active,3,81195,
+E0433,2019-04-01,,Marketing,36,Male,Active,3,116206,
+E0434,2021-07-28,2023-06-17,HR,55,Female,Voluntary,5,60793,1.8876712328767122
+E0435,2014-12-01,,Marketing,40,Female,Active,5,68335,
+E0436,2016-02-18,,Finance,51,Female,Active,1,118828,
+E0437,2014-11-16,2017-03-15,Engineering,29,Male,Voluntary,1,58517,2.328767123287671
+E0438,2019-01-28,2023-02-12,HR,52,Female,Involuntary,1,76348,4.043835616438356
+E0439,2015-12-31,,Engineering,39,Female,Active,3,70115,
+E0440,2020-06-25,,Finance,58,Female,Active,2,93153,
+E0441,2018-08-14,,Marketing,54,Male,Active,3,92025,
+E0442,2018-05-01,,Marketing,43,Female,Active,2,40602,
+E0443,2020-01-14,,Engineering,58,Female,Active,4,66489,
+E0444,2021-08-22,,Customer Support,40,Female,Active,2,110068,
+E0445,2015-11-11,,HR,50,Female,Active,2,79459,
+E0446,2018-11-25,2022-09-29,Finance,58,Female,Personal Reasons,1,78487,3.8465753424657536
+E0447,2021-12-26,,Engineering,56,Male,Active,5,82941,
+E0448,2018-08-16,,Customer Support,42,Male,Active,5,107772,
+E0449,2016-08-24,,Sales,28,Male,Active,1,96827,
+E0450,2022-03-13,2023-05-04,Engineering,26,Male,Involuntary,2,60695,1.1424657534246576
+E0451,2017-09-28,,Marketing,31,Male,Active,1,40341,
+E0452,2022-01-10,,HR,26,Male,Active,5,95679,
+E0453,2023-03-30,,Marketing,26,Female,Active,5,75170,
+E0454,2023-06-07,,Customer Support,27,Female,Active,4,84609,
+E0455,2014-03-20,,HR,59,Female,Active,3,95310,
+E0456,2022-06-15,2024-10-31,Finance,50,Male,Personal Reasons,3,88013,2.3808219178082193
+E0457,2021-06-04,,Finance,47,Male,Active,5,90426,
+E0458,2023-03-20,,Engineering,49,Female,Active,4,90447,
+E0459,2022-01-08,,Engineering,32,Female,Active,2,64413,
+E0460,2017-12-30,,Finance,40,Male,Active,4,111268,
+E0461,2018-11-04,2021-03-28,Customer Support,35,Female,Voluntary,5,84106,2.3972602739726026
+E0462,2020-10-24,,HR,60,Male,Active,1,88596,
+E0463,2016-02-03,,Customer Support,55,Male,Active,3,72477,
+E0464,2023-06-26,,HR,53,Female,Active,5,71825,
+E0465,2015-09-16,,Marketing,46,Male,Active,3,90907,
+E0466,2014-08-21,,Customer Support,50,Female,Active,4,119117,
+E0467,2020-09-18,,Marketing,37,Female,Active,3,57308,
+E0468,2022-09-14,2024-10-13,Engineering,44,Male,Retirement,5,45452,2.0821917808219177
+E0469,2022-07-13,,Customer Support,60,Male,Active,4,85408,
+E0470,2018-08-02,,Finance,59,Female,Active,4,92453,
+E0471,2019-03-30,,Marketing,47,Male,Active,4,106646,
+E0472,2015-01-23,,Sales,52,Male,Active,3,110719,
+E0473,2014-10-30,,Customer Support,40,Female,Active,3,94936,
+E0474,2021-02-16,2024-10-15,HR,50,Female,Personal Reasons,4,88518,3.663013698630137
+E0475,2017-11-16,,Customer Support,58,Female,Active,5,115611,
+E0476,2015-10-10,2018-02-05,Customer Support,39,Male,Personal Reasons,3,55712,2.326027397260274
+E0477,2023-02-01,,Engineering,49,Female,Active,4,59948,
+E0478,2020-12-27,,Engineering,46,Male,Active,3,118544,
+E0479,2023-07-21,,Engineering,53,Male,Active,3,47173,
+E0480,2023-11-13,,Customer Support,53,Female,Active,5,44288,
+E0481,2021-10-03,,Customer Support,47,Female,Active,4,80980,
+E0482,2023-02-27,,HR,35,Male,Active,2,98080,
+E0483,2014-06-12,,Sales,42,Male,Active,5,66185,
+E0484,2016-04-09,,Customer Support,28,Male,Active,1,107261,
+E0485,2021-11-04,2025-01-21,Marketing,37,Female,Involuntary,5,100037,3.2164383561643834
+E0486,2016-09-28,,HR,45,Female,Active,1,61149,
+E0487,2021-07-09,2026-03-29,Finance,38,Female,Voluntary,4,71695,4.723287671232876
+E0488,2021-12-25,,Sales,52,Male,Active,4,84620,
+E0489,2017-02-16,2019-04-14,Finance,37,Female,Retirement,3,83507,2.1561643835616437
+E0490,2018-04-08,,Sales,28,Female,Active,4,90178,
+E0491,2020-08-06,,Engineering,48,Female,Active,4,91973,
+E0492,2023-10-20,2025-11-24,Sales,30,Male,Personal Reasons,5,58030,2.0986301369863014
+E0493,2016-03-04,,HR,50,Male,Active,5,82463,
+E0494,2015-11-29,,Marketing,55,Male,Active,2,79220,
+E0495,2023-09-11,,Sales,60,Male,Active,1,92471,
+E0496,2022-05-19,,Finance,38,Female,Active,3,109065,
+E0497,2021-05-17,,HR,46,Male,Active,1,101942,
+E0498,2022-08-26,,HR,41,Female,Active,5,58367,
+E0499,2021-12-24,,HR,44,Female,Active,4,43807,
+E0500,2021-09-01,,HR,52,Male,Active,3,72528,
